@@ -1,4 +1,4 @@
-setwd("D:/WEBSITE/PRANAUGI.COM/PENELUSURAN LITERATUR/Penelitian yang Menggunakan Metode Analisis Data CFA/aplikasi shiny")
+setwd("D:/WEBSITE/PRANAUGI.COM/PENELUSURAN LITERATUR/Aplikasi PLS SEM pada Data Kinerja Keuangan pada Perusahaan yang Terdaftar di BEI/aplikasi shiny")
 
 
 https://www.youtube.com/watch?v=B3Nggr9X4rY
